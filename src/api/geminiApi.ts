@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { UserProfile } from '../types/profile';
 
 // Access your API key as an environment variable (see "Set up your API key" above)
-const API_KEY = 'AIzaSyCN96S2kUasy2N1J6wHT_ZmJGQMTipOBRE'; // Ensure GEMINI_API_KEY is set in your .env file
+const API_KEY = 'YOUR_GOOGLE_GEMINI_API_KEY'; // Ensure GEMINI_API_KEY is set in your .env file
 
 const genAI = new GoogleGenerativeAI(API_KEY);
 
