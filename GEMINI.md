@@ -1,0 +1,1 @@
+## Gemini API Key\n\nTo use the Gemini API, you need to set the `GEMINI_API_KEY` environment variable.\n\nYou can get your API key from the Gemini website.\n
